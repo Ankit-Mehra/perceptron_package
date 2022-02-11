@@ -1,5 +1,10 @@
 # A  Simple Perceptron package
 
+## How to use this package
+```python
+from simple_perceptron.perceptron import Perceptron
+model = Perceptron(eta=0.3,epochs=10)
+```
 
 ## Refrences -
 
