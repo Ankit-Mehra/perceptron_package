@@ -1,4 +1,4 @@
-# A Perceptron package
+# A  Simple Perceptron package
 
 
 ## Refrences -
